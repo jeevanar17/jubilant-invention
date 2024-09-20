@@ -1,2 +1,3 @@
 # jubilant-invention
-This is very mys Git repository
+This is very first Git repository
+Author - JEEVAN A R
